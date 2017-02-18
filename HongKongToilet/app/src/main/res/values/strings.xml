@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hong Kong Toilet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_update">Update</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- toilet list page -->
+    <string name="distance">distance</string>
+    <string name="meter">meter</string>
+    <string name="loading">Loading</string>
+
+    <!-- setting page -->
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="traditionalChinese">Traditional Chinese</string>
+    <string name="simplifiedChinese">Simplified Chinese</string>
+    <string name="rowNo">Row No</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hk">zh_hk</string>
+    <string name="cn">zh_cn</string>
+    <string name="tw">zh_tw</string>
+</resources>
